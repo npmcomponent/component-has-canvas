@@ -1,0 +1,12 @@
+{
+  "name": "component-has-canvas",
+  "description": "canvas support check.",
+  "version": "0.0.1",
+  "keywords": [
+    "has",
+    "canvas"
+  ],
+  "main": "index.js",
+  "dependencies": {},
+  "license": "MIT"
+}
